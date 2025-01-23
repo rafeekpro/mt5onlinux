@@ -123,4 +123,3 @@ Replace `your_script.py` with the path to your Python script.
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-```
